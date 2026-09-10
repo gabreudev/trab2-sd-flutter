@@ -87,11 +87,20 @@ flutter run
 
 ## 🖼️ Capturas de Tela e Evidências
 
-> Adicione aqui as capturas de tela para a entrega final:
-> 
-> * **Interface do Aplicativo com Resultado:** *(Inserir print)*
-> * **Foto Capturada salva pelo Servidor (`capturas/`):** *(Inserir imagem)*
-> * **Detecção com Bounding Boxes (`capturas/anotadas/`):** *(Inserir imagem)*
+### Teste 1: Cadeira
+Evidências da captura e processamento do servidor detectando "Cadeira":
+<p align="center">
+  <img src="prints/cadeira-1.jpeg" width="45%" />
+  <img src="prints/cadeira-2.jpeg" width="45%" />
+</p>
+
+### Teste 2: Garrafa e Mesa
+Evidências da captura e processamento detectando "Garrafa" e "Mesa":
+<p align="center">
+  <img src="prints/garrafa.jpeg" width="30%" />
+  <img src="prints/garrafa+mesa-1.jpeg" width="30%" />
+  <img src="prints/garrafa+mesa-2.jpeg" width="30%" />
+</p>
 
 ---
 
